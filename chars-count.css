@@ -1,0 +1,11 @@
+    .chars-count {
+      color: black;
+      font-size: 82%;
+    }
+    .chars-count-warning {
+      color: orange;
+    }
+    .chars-count-danger {
+      color: red;
+      font-weight: bold;
+    }
